@@ -1,0 +1,28 @@
+{
+  "Register": [
+    {
+      "FirstName": "Ramesh",
+      "LastName": "Rawal",
+      "Email": "amisdfst@g.com",
+      "Password": "testing"
+    },
+    {
+      "FirstName": "Stephen",
+      "LastName": "rob",
+      "Email": "stsdfse@g.com",
+      "Password": "testing"
+    },
+    {
+      "FirstName": "yash",
+      "LastName": "Rawal",
+      "Email": "stesdfy@g.com",
+      "Password": "testing"
+    },
+    {
+      "FirstName": "rawal",
+      "LastName": "agastya",
+      "Email": "sesadfsgde@g.com",
+      "Password": "testing"
+    }
+  ]
+}
